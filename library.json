@@ -15,7 +15,7 @@
         "url": "https://github.com/Erriez/ErriezCRC32.git",
         "branch": "master"
     },
-    "frameworks": "arduino",
+    "frameworks": "arduino","esp-ide",
     "platforms": [
         "atmelavr",
         "atmelsam",
